@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0822517efb652e02",
+        "id": "b86d505e219b2e18",
         "type": "tabs",
         "children": [
           {
-            "id": "77bb41517e9816b1",
+            "id": "ca0987c3f78010ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Factions/AEGIS.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/themes/Ukiyo/manifest.json",
+                "bFile": ".obsidian/themes/Ukiyo/manifest.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "AEGIS"
+              "icon": "diff",
+              "title": "Diff: manifest.json  (Working Tree)"
             }
           }
         ]
@@ -194,21 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77bb41517e9816b1",
+  "active": "ca0987c3f78010ef",
   "lastOpenFiles": [
+    "Missions/Introductory Mission.md",
+    "Missions/Supermarket Mission.md",
+    "Factions/Team Lancelot.md",
+    "Factions/Les Voiles Community Kitchen.md",
+    "Factions/Europan.md",
+    "Factions/AEGIS.md",
     "Characters/Renegade.md",
     "Factions",
-    "Marche Magnifique Prime Suspect.md",
+    "Characters/Marche Magnifique Prime Suspect.md",
     "Characters/Alice.md",
-    "Factions/Les Voiles Community Kitchen.md",
-    "Supermarket Mission.md",
-    "Factions/AEGIS.md",
-    "Introductory Mission.md",
-    "Training Mission.md",
+    "Missions/Training Mission.md",
     "Missions",
     "Characters",
-    "Factions/Team Lancelot.md",
-    "Factions/Europan.md",
     "Characters/Aquillis.md",
     "Handlers.md"
   ]
