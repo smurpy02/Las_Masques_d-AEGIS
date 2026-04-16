@@ -11,14 +11,10 @@
             "id": "ca0987c3f78010ef",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/themes/Ukiyo/manifest.json",
-                "bFile": ".obsidian/themes/Ukiyo/manifest.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: manifest.json  (Working Tree)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,16 +192,25 @@
   },
   "active": "ca0987c3f78010ef",
   "lastOpenFiles": [
+    "Europan.md",
+    "Factions/Marche Magnifique.md",
+    "Characters/Zebrawood.md",
+    "Characters/Jerome Clue.md",
+    "Characters/Mike Shmidt.md",
     "Missions/Introductory Mission.md",
+    "Characters/Mahogany.md",
+    "Characters/Redwood.md",
+    "Characters/Joules.md",
+    "Characters/Alice.md",
+    "Characters/Redcap.md",
+    "Characters/Supermarket Suspects.md",
+    "Characters/Mira.md",
+    "Factions/Les Voiles Community Kitchen.md",
     "Missions/Supermarket Mission.md",
     "Factions/Team Lancelot.md",
-    "Factions/Les Voiles Community Kitchen.md",
-    "Factions/Europan.md",
     "Factions/AEGIS.md",
     "Characters/Renegade.md",
     "Factions",
-    "Characters/Marche Magnifique Prime Suspect.md",
-    "Characters/Alice.md",
     "Missions/Training Mission.md",
     "Missions",
     "Characters",

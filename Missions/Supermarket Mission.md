@@ -10,7 +10,7 @@ Last night they hit two locations. A supermarket, and a warehouse
 Staff member has shotty camera evidence showing only a faint purple blur of the criminal hopping a wire fence
 CCTV was out
 
-[[Marche Magnifique Prime Suspect]]
+[[Supermarket Suspects]]
 
 Alice STOLE STOLE AND ATE A CAN OF CORN! We're probably getting in trouble
 Alice noticed a token with [[Les Voiles Community Kitchen]] written on it
