@@ -4,6 +4,6 @@
 [[Alice]]
 [[Renegade]]
 ## Field Missions
-[[Introductory Mission]]
-[[Training Mission]]
-[[Supermarket Mission]]
+[[1. Introductory Mission]]
+[[2. Training Mission]]
+[[3. Supermarket Mission]]

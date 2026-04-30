@@ -1,0 +1,2 @@
+Stimulates plant growth
+Very scientific

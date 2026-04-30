@@ -1,6 +1,7 @@
 Max Dumont
 The Legacy
 
+[[Redcap]] is an old childhood friend
 Trusts and told a secret of his legacy to [[Alice]]
 Is ashamed that [[Joules]] is his team lead, rather than him
 
