@@ -3,6 +3,7 @@
 [[Joules]]
 [[Alice]]
 [[Renegade]]
+[[Agent Nautilus]]
 ## Field Missions
 [[1. Introductory Mission]]
 [[2. Training Mission]]

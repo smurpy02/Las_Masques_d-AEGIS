@@ -1,3 +1,4 @@
+Ability - Energy Kinesis/Reabsorption
 Works at [[Les Voiles Community Kitchen]]
 Has Violet Streak in hair
 Let slip to Alice she was the thief

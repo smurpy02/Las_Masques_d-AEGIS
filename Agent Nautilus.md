@@ -1,0 +1,1 @@
+[[Europan]] with trident/storm powers
